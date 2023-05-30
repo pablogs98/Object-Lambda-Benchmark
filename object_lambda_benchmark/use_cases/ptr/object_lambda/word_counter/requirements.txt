@@ -1,0 +1,3 @@
+requests
+aioboto3
+pandas

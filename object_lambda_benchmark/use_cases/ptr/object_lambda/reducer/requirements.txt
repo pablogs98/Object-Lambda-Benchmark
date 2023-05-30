@@ -1,0 +1,4 @@
+requests
+aioboto3
+pandas
+aiostream

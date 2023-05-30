@@ -1,0 +1,13 @@
+syntax = "proto3";
+import "google/protobuf/empty.proto";
+option java_package = "org.example";
+
+service Time {
+  // Records a timestamp
+  rpc WriteTime (TimeRequest) returns (google.protobuf.Empty) {}
+}
+
+// The request message containing a Lambda/Object Lambda UUID
+message TimeRequest {
+  string id = 1;
+}

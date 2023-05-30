@@ -1,0 +1,15 @@
+# Project exclude paths
+/object_lambda_benchmark/microbenchmarks/ttfb/java/lambda/nodejs/node_modules/
+/object_lambda_benchmark/microbenchmarks/ttfb/java/object_lambda/nodejs/node_modules/
+build
+gradlew*
+package
+.idea
+*.zip
+gradle
+.gradle
+node_modules
+figures
+test
+package-lock.json
+/object_lambda_benchmark/results_object_lambda/
