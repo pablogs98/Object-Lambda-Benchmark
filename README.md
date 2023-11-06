@@ -44,7 +44,7 @@ The datasets used for experimentation are publicly available and can be download
 
 ## References
 
-Pablo Gimeno Sarroca, Marc Sànchez-Artigas. [On Data Processing Through the Lenses of S3 Object Lambda](), in IEEE INFOCOM 2023.
+Pablo Gimeno Sarroca, Marc Sànchez-Artigas. [On Data Processing Through the Lenses of S3 Object Lambda](https://zenodo.org/records/8314342), in IEEE INFOCOM 2023.
 
 ## Acknowledgements
 <img src="https://user-images.githubusercontent.com/45240979/228180946-606cb75e-46c9-429c-a62b-ea9098c375a0.svg"  height="65">
